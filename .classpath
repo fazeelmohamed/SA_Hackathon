@@ -50,5 +50,16 @@
 	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="libs/spring-webmvc-4.2.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="libs/spring-webmvc-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sinthujan/Documents/Eclipse Workspace/adal4jsample/WebContent/WEB-INF/lib/spring-context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sinthujan/.m2/repository/org/springframework/spring-context/4.3.1.RELEASE/spring-context-4.3.1.RELEASE.jar" sourcepath="C:/Users/Sinthujan/.m2/repository/org/springframework/spring-context/4.3.1.RELEASE/spring-context-4.3.1.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Sinthujan/.m2/repository/org/springframework/spring-context/4.3.1.RELEASE/spring-context-4.3.1.RELEASE-javadoc.jar!/"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-context"/>
+			<attribute name="maven.version" value="4.3.1.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
